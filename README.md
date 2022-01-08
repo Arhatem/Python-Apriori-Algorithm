@@ -1,0 +1,1 @@
+•	This Project aims to apply Apriori algorithm using Python to find all the association rules in customer data for an insurance company
